@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
 
-
+// This is version 1 of this comment
 public class BoardTest  {
 	
 	Board board = null;
